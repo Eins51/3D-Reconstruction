@@ -27,6 +27,9 @@ run task3.mlx
 
 ## Visualizations
 The project includes several visualizations to aid in understanding the process and results:
-1. Depth histograms for selecting depth thresholds.
+1. Depth histograms and depth map for selecting depth thresholds.
+   ![Depth Analysis](https://github.com/Eins51/3D-Reconstruction/blob/master/Visualization/Depth%20Analysis.png)
 2. 2D projections with fitted circles.
+   ![2D Projections with Fitted Circles](https://github.com/Eins51/3D-Reconstruction/blob/master/Visualization/circle.png)
 3. 3D point cloud visualizations of the shaft.
+   ![3D Point Cloud Visualization](https://github.com/Eins51/3D-Reconstruction/blob/master/Visualization/circle_pc.png)
