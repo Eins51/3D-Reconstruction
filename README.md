@@ -10,9 +10,9 @@ This repository contains MATLAB scripts and utilities for estimating the diamete
 - **Measurement Uncertainty**: Calculate and report the measurement uncertainties using standard deviation of the residuals from circle fitting.
 
 ## Repository Structure
-- `src/` - Contains all the MATLAB scripts and function files.
-- `data/` - Directory for storing sample stereo images and output data files.
-- `docs/` - Additional documentation and images for the project.
+- `task3.mlx` - The MATLAB script and function file.
+- `Stereo Data/` - Directory for storing sample stereo images and camera parameters files.
+- `Visualization/` - Visualization results for the project.
 - `README.md` - Overview and usage instructions for the project.
 
 ## Getting Started
